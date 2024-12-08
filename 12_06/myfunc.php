@@ -31,7 +31,7 @@ require_once 'dbconf.php';
                     foreach ($row as $key => $value) {
                         echo "<td>$value</td>";
                     }
-                    $id=$row['book_id'];
+                    $book_id=$row['book_id'];
                     //query string
                     echo "<td><a href='printtable.php? book_id=$book_id '> View </a> </td>";
                     echo "</tr>";
