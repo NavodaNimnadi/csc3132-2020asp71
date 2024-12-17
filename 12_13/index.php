@@ -161,7 +161,7 @@ require_once 'func.php';
                         </td>
                     </tr>
                     <tr id="vnoLabel" style="display:">
-                        <td>Vehicle No:</td>
+                    <td>Vehicle No:</td>
                         <td align="right">
                             <label>
                                 <input type="text" name="vno" placeholder="Enter Vehicle No">
