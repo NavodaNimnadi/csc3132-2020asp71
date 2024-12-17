@@ -160,7 +160,7 @@ require_once 'func.php';
 
                         </td>
                     </tr>
-                    <tr id="vnoLabel" style="display: ;">
+                    <tr id="vnoLabel" style="display:">
                         <td>Vehicle No:</td>
                         <td align="right">
                             <label>
